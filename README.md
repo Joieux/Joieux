@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a self taught, Python focused engineer with a strong interest in cybersecurity and autonomous systems. I build hands on projects to understand how software, hardware, and networks behave in real world conditions. My current flagship project, Project AETHER, explores autonomous reconnaissance through a distributed AI robotics architecture, blending cyber physical security, computer vision, and signal intelligence. I use projects as a way to learn deeply, think systemically, and prepare for advanced technical roles.
+Loading ...
 
 
 ## 🌐 Socials:
